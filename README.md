@@ -4,7 +4,7 @@
 
 * It's a website made up of several components of a social networking platform that have been combined to provide a space where people can interact, collaborate, and learn.
 
-* The concept's major point is to connect current students with not just the college's alumni students, but also the college's alumni teachers.
+* It is a website built using **MongoDB** as a database, **ReactJS** in frontend, **NodeJS** & **ExpressJS**
 
 * It also has a timeline for sharing news updates with the entire college, regardless of your batch, class, or year.
 
